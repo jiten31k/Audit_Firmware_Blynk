@@ -10,7 +10,7 @@
 #include <ArduinoOTA.h>
 
 char auth[] = "HyRd7H2nbq23p1MQPjqM172hUkCEtI5A";
-const char *WIFI_AP_SSID = "ENSS_001";
+const char *WIFI_AP_SSID = "ENSS_001"; // Change this as per device SN
 const char *WIFI_AP_PASSWORD = "energinai@123";
 
 #define RX_PIN 16
